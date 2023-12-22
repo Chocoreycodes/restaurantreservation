@@ -1,5 +1,5 @@
 # Restaurant Reservation System Documentation
-
+### Hoybia, Intong, Lenteria, Nacion, Supangan
 ## Introduction
 
  Laravel restaurant reservation system is a web application developed using the Laravel framework, providing a structured and efficient way to manage restaurant reservations, enhance user experience, and streamline the overall reservation process for both customers and restaurant staff.
